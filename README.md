@@ -49,14 +49,4 @@ Customer Site: A clean and responsive interface using Tailwind CSS.
 Admin Panel: A functional and data-rich dashboard using MUI.
 Documentation: Provide separate READMEs for the admin panel, customer site, and backend, including setup instructions (e.g., Docker commands, environment variables).
 Testing: Write a test for at least one endpoint using Jest or Supertest to ensure correct data retrieval.
-Extras (Not Mandatory)
-RBAC: Role-Based Access Control for different admin roles (e.g., a basic admin vs. a super admin with full control).
-CI/CD: Set up a continuous integration and deployment pipeline using GitHub Actions.
-Deliverables
-Live URL for the admin panel.
-Live URL for the customer site.
-GitHub repo for the admin panel.
-GitHub repo for the customer site.
-GitHub repo for the backend.
-A README file for each repository.
 
